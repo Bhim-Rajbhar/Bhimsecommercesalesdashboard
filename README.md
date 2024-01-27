@@ -1,5 +1,4 @@
-# Bhimsecommercesalesdashboard
-Bhim's Ecommerce Sales Dashboard
+# Ecommerce Sales Dashboard
 
 **Objective :-** Owner of Bhim's Store wants us to help them create a dashboard to track and analyze thier online sales across India.
 
